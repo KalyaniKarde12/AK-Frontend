@@ -1,0 +1,19 @@
+.navbar{
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    line-height: 26px;
+    text-transform:uppercase;
+    box-shadow:0 8px 6px -6px gray;
+    /* --webkit-boxshadow:0 8px -6px gray; */
+    border-bottom: 0.3px solid gray !important;
+}
+.nav-link{
+    font-weight: 300 !important;
+}
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    flex-direction: column;
+}
